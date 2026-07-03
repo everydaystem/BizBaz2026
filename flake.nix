@@ -30,7 +30,9 @@
             buildInputs = with pkgs; [
               nodejs_24
               just
+              jujutsu
               uv
+              typioca
             ];
             shellHook = "";
           };
