@@ -1,0 +1,7 @@
+[project]
+name = "BizBaz"
+version = "0.1.0"
+description = "BizBaz 2026 July Expo"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
